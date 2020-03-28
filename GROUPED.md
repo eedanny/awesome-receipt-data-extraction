@@ -23,17 +23,17 @@ This repository contains resources helpful if you are going to build a system fo
 
 * [A Novel Machine Learning Based Approach for Retrieving Information from Receipt Images](reviews/szabo2014novel.md)
 
-* ✍🏿[Receipt automatic reader](reviews/maslowa2019receipt.md)
+* ✍️[Receipt automatic reader](reviews/maslowa2019receipt.md)
 
 ### Pipeline for OCR from scanned receipts w/o semantic analysis
 
-* ✍🏿[Deep Learning Approach for Receipt Recognition](reviews/le2019deep.md)
+* ✍️[Deep Learning Approach for Receipt Recognition](reviews/le2019deep.md)
 
 ### Preprocessing for photos of receipts
 
-* ✍🏿[Preprocessing Photos of Receipts for Recognition](reviews/korobacz2018preprocessing.md)
+* ✍️[Preprocessing Photos of Receipts for Recognition](reviews/korobacz2018preprocessing.md)
 
-* ✍🏿[A document detection technique using convolutional neural networks for optical character recognition systems](reviews/dobai2019document.md)
+* ✍️[A document detection technique using convolutional neural networks for optical character recognition systems](reviews/dobai2019document.md)
 
 ### Preprocessing for various type of documents
 
@@ -46,7 +46,7 @@ This repository contains resources helpful if you are going to build a system fo
 
 ### Text detection and recognition
 
-* ✍🏿[A Novel Integrated Framework for Learning both Text Detection and Recognition](reviews/sui2018novel.md)
+* ✍️[A Novel Integrated Framework for Learning both Text Detection and Recognition](reviews/sui2018novel.md)
 * ✍🏿[A Multitask Network for Localization and Recognition of Text in Images](reviews/sarshogh2019multi.md)
 * ✍🏿[Towards Unconstrained End-to-End Text Spotting](reviews/qin2019towards.md)
 
