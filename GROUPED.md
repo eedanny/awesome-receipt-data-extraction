@@ -47,17 +47,17 @@ This repository contains resources helpful if you are going to build a system fo
 ### Text detection and recognition
 
 * ✍️[A Novel Integrated Framework for Learning both Text Detection and Recognition](reviews/sui2018novel.md)
-* ✍🏿[A Multitask Network for Localization and Recognition of Text in Images](reviews/sarshogh2019multi.md)
-* ✍🏿[Towards Unconstrained End-to-End Text Spotting](reviews/qin2019towards.md)
+* ✍️[A Multitask Network for Localization and Recognition of Text in Images](reviews/sarshogh2019multi.md)
+* ✍️[Towards Unconstrained End-to-End Text Spotting](reviews/qin2019towards.md)
 
 ### OCR on documents
 
-* ✍🏿[Chargrid-OCR: End-to-end Trainable Optical Character Recognition for Printed Documents using Instance Segmentation](reviews/reisswig2019chargrid.md)
+* ✍️[Chargrid-OCR: End-to-end Trainable Optical Character Recognition for Printed Documents using Instance Segmentation](reviews/reisswig2019chargrid.md)
 
 ### Semantic analysis
 
 * [Utilize OCR text to extract receipt data and classify receipts with common Machine Learning algorithms](reviews/odd2018utilize.md)
-* ✍🏿[Chargrid: Towards Understanding 2D Documents](reviews/katti2018chargrid.md)
+* ✍️[Chargrid: Towards Understanding 2D Documents](reviews/katti2018chargrid.md)
 * ✍🏿[Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](reviews/liu2019graph.md)
 * [Visual-Linguistic Methods for Receipt Field Recognition](reviews/gal2018visual.md)
 * ✍🏿[CUTIE: Learning to Understand Documents with Convolutional Universal Text Information Extractor](reviews/zhao2019cutie.md)
@@ -66,3 +66,10 @@ This repository contains resources helpful if you are going to build a system fo
 * [EATEN: Entity-aware Attention for Single Shot Visual Text Extraction](reviews/guo2019eaten.md)
 * [Post-OCR parsing: building simple and robust parser via BIO tagging](reviews/hwang2019post.md)
 * [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](reviews/xu2019layout.md)
+
+#### Notes
+
+✍️ - summarized in my thesis
+
+
+✍🏿 - todo
