@@ -58,7 +58,7 @@ This repository contains resources helpful if you are going to build a system fo
 
 * [Utilize OCR text to extract receipt data and classify receipts with common Machine Learning algorithms](reviews/odd2018utilize.md)
 * ✍️[Chargrid: Towards Understanding 2D Documents](reviews/katti2018chargrid.md)
-* ✍🏿[Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](reviews/liu2019graph.md)
+* ✍️[Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](reviews/liu2019graph.md)
 * [Visual-Linguistic Methods for Receipt Field Recognition](reviews/gal2018visual.md)
 * ✍🏿[CUTIE: Learning to Understand Documents with Convolutional Universal Text Information Extractor](reviews/zhao2019cutie.md)
 * [Attend, Copy, Parse End-to-end Information Extraction from Documents](reviews/palm2019attend.md)
@@ -70,6 +70,5 @@ This repository contains resources helpful if you are going to build a system fo
 #### Notes
 
 ✍️ - summarized in my thesis
-
 
 ✍🏿 - todo
